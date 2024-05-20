@@ -1,7 +1,10 @@
 ### Oii! Eu sou Ester Carvalho 🙋🏼‍♀️💖
 
 - 📚 Estudando Front-end
-- 🍥 Amante de animes 
+- 🚀 Tecnologia Web
+- 🍥 Amante de animes
+- 🎶 Amante de música
+- 🍄 Desing 
 
 -------------------------------------------------------
 
@@ -22,8 +25,6 @@
 -------------------------------------------------------
 
 ##
-
- 
 <div> 
   <a href="https://instagram.com/ester_carvalho_100" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ester10x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
