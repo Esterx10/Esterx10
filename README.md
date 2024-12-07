@@ -1,6 +1,7 @@
 ### Oii! Eu sou Ester Carvalho 🙋🏼‍♀️💖
 
 - 📚 Estudando Front-end
+- 📑 Estudante de Sistemas da internet (UAPI)
 - 🚀 Tecnologia Web
 - 🍥 Amante de animes
 - 🎶 Amante de música
