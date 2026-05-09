@@ -5,9 +5,8 @@
   <img src="https://img.shields.io/badge/Curso-ADS-6A5ACD">
 </p>
 
-- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** (UAPI)
-- 💻 Focada em **Front-end** e Tecnologia Web
-- 🎨 Apaixonada por Design e UI/UX
+- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** 
+- 💻 Focada em **Front-end** e Tecnologia Web 
 - 🍥 Nas horas vagas: Animes & Música
 
 ---
