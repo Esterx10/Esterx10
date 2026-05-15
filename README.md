@@ -17,14 +17,14 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Esterx19&show_icons=true&theme=dracula&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36&include_all_commits=true&count_private=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esterx19&layout=compact&langs_count=8&theme=dracula&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Esterx10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esterx19&layout=compact&theme=dracula" />
 </p>
-
 ---
 
 ### 📫 Vamos conversar?
-
-[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ester_carvalho_100) [![Gmail](https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esterdesousa625@gmail.com) [![Discord](https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ester10x)
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ester_carvalho_100)
+[![Gmail](https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esterdesousa625@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ester10x)
 
 ---
