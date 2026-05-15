@@ -17,11 +17,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Esterx10&show_icons=true&theme=visual_studio_code&text_color=9f7aea&icon_color=d6bcfa&hide_border=true&include_all_commits=true&count_private=true" alt="Ester Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esterx10&show_icons=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" alt="Ester Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercelapp/api/top-langs/?username=Esterx10&layout=compact&theme=visual_studio_code&text_color=9f7aea&icon_color=d6bcfa&hide_border=true" alt="Ester Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esterx10&layout=compact&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=000000&hide_border=true" alt="Ester Top Langs" />
 </p>
 
 ---
