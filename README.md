@@ -28,7 +28,9 @@
 
 ### 📫 Vamos conversar?
 [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ester_carvalho_100)
-[![Gmail](https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estrela.carvalho.trabalho@gmail.com)
+<a href="mailto:estrela.carvalho.trabalho@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 [![Discord](https://img.shields.io/badge/Discord-4B0082?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ester10x)
 
 ---
