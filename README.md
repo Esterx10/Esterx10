@@ -14,6 +14,14 @@
 
 ---
 
+### 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Esterx10/Esterx10/output/github-snake-dark.svg" alt="Cobrinha das contribuições" width="100%" />
+</p>
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
