@@ -25,8 +25,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esterx10&show_icons=true&theme=transparent&title_color=c4b5fd&icon_color=a855f7&text_color=e5e7eb&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esterx10&layout=donut-vertical&theme=transparent&title_color=c4b5fd&text_color=e5e7eb&hide_border=true" alt="Linguagens" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esterx10&show_icons=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a855f7&text_color=e5e7eb&hide_border=true&border_radius=12&hide_rank=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esterx10&layout=donut-vertical&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb&hide_border=true&border_radius=12" alt="Linguagens" />
 </p>
 
 <p align="center">
