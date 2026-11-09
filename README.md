@@ -25,11 +25,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esterx10&show_icons=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true" alt="Ester Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esterx10&show_icons=true&theme=transparent&title_color=c4b5fd&icon_color=a855f7&text_color=e5e7eb&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esterx10&layout=donut-vertical&theme=transparent&title_color=c4b5fd&text_color=e5e7eb&hide_border=true" alt="Linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esterx10&layout=compact&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=000000&hide_border=true" alt="Ester Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=Esterx10&theme=transparent&hide_border=true&ring=a855f7&fire=c4b5fd&currStreakLabel=c4b5fd&currStreakNum=ffffff&sideLabels=e5e7eb&sideNums=ffffff&dates=9ca3af" alt="Sequência de commits" />
 </p>
 
 ---
